@@ -1,2 +1,2 @@
-# rust_sdl
+# rust-sdl
 Thin wrapper around sdl for rust
